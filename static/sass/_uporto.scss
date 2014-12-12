@@ -10,7 +10,7 @@
 //-----------------
 
 //Main Color Variables
-$main-color: #f7691f;
+/*$main-color: #f7691f;
 $dark-color: #ea281f; //Link Color
 $light-color: #f4e00c; //Selected Header BG Color, ie. calendar        ***Custom, not from palette***
 $bg-color: #f7fe81; //Selected Content BG Color, ie. calendar          ***Custom, not from palette***
@@ -175,7 +175,7 @@ $sidebar-active-image: $gray-3;
 
 $form-bg-color: $gray-1;
 $modal-bg-color: $gray-1;
-
+*/
 //TOP HEADER IMAGE MARGIN
 $header_image_margin: -77px;
 
@@ -185,12 +185,12 @@ $footer_margin: ($baseline/4) 0;
 //-----------------
 //  CSS BG Images
 //-----------------
-$homepage-bg-image: url('../themes/default/images/sunrise.jpg');
+$homepage-bg-image: url('../themes/uporto/images/home.jpg');
 
 $login-banner-image: none;
 $register-banner-image: none;
 
-$video-thumb-url: '../themes/default/images/edx.png';
+$video-thumb-url: '../themes/uporto/images/edx.png';
 
 //-----------------
 //  Mixin Styles
